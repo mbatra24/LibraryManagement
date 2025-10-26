@@ -1,4 +1,8 @@
 this is a new line
 this change is done on remote repo
 this is another change on master repo
+<<<<<<< HEAD
+this statement for undoing things
+=======
 editing to see conflicts
+>>>>>>> 05fd3816093063c9a0df8a7052006c1ba13d2201
