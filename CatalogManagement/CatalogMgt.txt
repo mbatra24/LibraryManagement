@@ -1,4 +1,14 @@
 this is a new line
 this change is done on remote repo
 this is another change on master repo
+
 this statement for undoing things
+=======
+editing to see conflicts
+
+
+
+to test merge conflicts by different teams
+=======
+This is new change done by team alpha
+
